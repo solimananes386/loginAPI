@@ -83,4 +83,4 @@ D:\c#projects\WebApplication4\WebApplication4\bin\Debug\net6.0\WebApplication4.s
 D:\c#projects\WebApplication4\WebApplication4\obj\Debug\net6.0\staticwebassets.build.endpoints.json
 D:\c#projects\WebApplication4\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 D:\c#projects\WebApplication4\WebApplication4\obj\Debug\net6.0\WebAppli.EC757EB8.Up2Date
-D:\c#projects\WebApplication4\WebApplication4\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\c#projects\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.sourcelink.json
